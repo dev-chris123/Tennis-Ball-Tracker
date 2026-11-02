@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE settings
+.idea/
+
+# Personal footage
+*.mp4
+
+# Generated tracking data
+tracked_positions*.csv
