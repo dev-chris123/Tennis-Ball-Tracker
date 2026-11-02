@@ -11,6 +11,18 @@ An experimental computer vision project built with Python and OpenCV to detect a
 - Visualizes ball trajectories.
 - Experiments with estimating ball speed from video footage.
 
+## Project Structure
+
+| File | Purpose |
+|---|---|
+| `ball_tracker.py` | Detects and tracks tennis balls in video footage. |
+| `court_calibration.py` | Maps image coordinates to court coordinates using perspective transformation. |
+| `get_points.py` | Collects court reference points for calibration. |
+| `find_serve_frames.py` | Helps identify serve frames in video footage. |
+| `speed_calculation.py` | Calculates image-plane ball speed. |
+| `speed_estimator.py` | Experiments with ground-plane projected speed estimation. |
+| `plot_trajectory.py` | Generates visualizations of tracked ball trajectories. |
+
 ## Technologies
 
 - Python
