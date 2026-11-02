@@ -53,3 +53,6 @@ This project is an ongoing experiment.
 ## Project Status
 
 Alpha — core detection, tracking, court calibration, CSV export, and trajectory visualization are implemented. Accuracy improvements and further validation remain ongoing.
+## Example Output
+
+![Tennis Ball Trajectory](trajectory_example.png)
